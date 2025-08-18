@@ -13,6 +13,18 @@
 
 **NIDA Clinical Trials Network – Good Clinical Practice Certificate**  
 <img src="https://raw.githubusercontent.com/luqman262002/luqman262002/main/certificate_pages-to-jpg-0001.jpg" alt="NIDA Clinical Trials Network Certificate" width="250"/>
+
+**SBM Good Clinical Practice Certificate**  
+<img src="https://raw.githubusercontent.com/luqman262002/luqman262002/main/sbm_gcp_certificate_page-0001.jpg" alt="SBM GCP Certificate" width="250"/>
+
+**DSMB Course Module 1 Certificate**  
+<img src="https://raw.githubusercontent.com/luqman262002/luqman262002/main/DSMB_DSMB%20Course%20Module%201%20Certificate%20of%20Completion_page-0001.jpg" alt="DSMB Course Module 1 Certificate" width="250"/>
+
+**DSMB Course Module 2 Certificate**  
+<img src="https://raw.githubusercontent.com/luqman262002/luqman262002/main/DSMB_DSMB%20Course%20Module%202%20Certificate%20of%20Completion_page-0001.jpg" alt="DSMB Course Module 2 Certificate" width="250"/>
+
+**DSMB Course Module 3 Certificate**  
+<img src="https://raw.githubusercontent.com/luqman262002/luqman262002/main/DSMB_DSMB%20Course%20Module%203%20Certificate%20of%20Completion_page-0001.jpg" alt="DSMB Course Module 3 Certificate" width="250"/>
 ---
 
 ## 👨‍⚕️ About Me
