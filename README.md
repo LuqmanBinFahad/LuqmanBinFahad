@@ -11,6 +11,8 @@
 
 <img src="https://raw.githubusercontent.com/luqman262002/luqman262002/main/google-data-analytics-professional-certificate.2.png" alt="Google Data Analytics Professional Certificate" width="250"/>
 
+**NIDA Clinical Trials Network – Good Clinical Practice Certificate**  
+<img src="https://raw.githubusercontent.com/luqman262002/luqman262002/main/certificate_pages-to-jpg-0001.jpg" alt="NIDA Clinical Trials Network Certificate" width="250"/>
 ---
 
 ## 👨‍⚕️ About Me
