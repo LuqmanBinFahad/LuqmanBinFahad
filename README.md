@@ -1,16 +1,67 @@
-## Hi there 👋
+# Hi, I'm Luqman Bin Fahad 👋
 
-<!--
-**luqman262002/luqman262002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**PharmD Intern | Clinical Pharmacist | Researcher/Scientist**  
+**AI Enthusiast | Data Analytics | Clinical Research Analytics**
 
-Here are some ideas to get you started:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/luqman-bin-fahad-a3220a366/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🎓 Certifications
+
+<img src="https://raw.githubusercontent.com/luqman262002/luqman262002/main/google-data-analytics-professional-certificate.2.png" alt="Google Data Analytics Professional Certificate" width="250"/>
+
+---
+
+## 👨‍⚕️ About Me
+
+- Passionate about leveraging data and AI to solve real-world healthcare challenges.
+- Experienced in clinical pharmacy, research, and data analytics.
+- Enthusiastic about open-source collaboration and sharing knowledge through impactful projects.
+
+---
+
+## 🚀 Featured Projects
+
+A selection of my research, analytics, and AI-driven healthcare projects:
+
+- [Research Awareness Dashboard](https://github.com/luqman262002/research-awareness-dashboard)  
+  *Data dashboard to visualize and promote research trends in healthcare.*
+
+- [Antibiotic Resistance Insights](https://github.com/luqman262002/antibiotic-resistance-insights)  
+  *Analytics platform investigating patterns of antibiotic resistance.*
+
+- [AMR Interactive Report](https://github.com/luqman262002/amr-interactive-report)  
+  *Interactive reporting tool for Antimicrobial Resistance (AMR) data analysis.*
+
+- [AI Medical Diagnostics Analysis](https://github.com/luqman262002/AI-Medical-Diagnostics-Analysis)  
+  *Leveraging artificial intelligence for analyzing medical diagnostics.*
+
+- [Global Aging Healthcare Burden](https://github.com/luqman262002/Global-Aging-Healthcare-Burden)  
+  *Research project quantifying healthcare challenges in aging populations worldwide.*
+
+- [AI Clinical Trial Revolution](https://github.com/luqman262002/AI-Clinical-Trial-Revolution)  
+  *Applying AI and analytics to optimize and innovate clinical trial methodologies.*
+
+- [Antibiotic Spectrum Atlas](https://github.com/luqman262002/Antibiotic_Spectrum_Atlas)  
+  *Comprehensive atlas mapping antibiotic spectrum and usage.*
+
+- [Patient Case Study](https://github.com/luqman262002/patient-case-study)  
+  *Repository for clinical patient case studies and related analytics.*
+
+---
+
+## 🛠️ Skills
+
+- Clinical Research & Analytics
+- Data Visualization & Dashboarding
+- AI & Machine Learning in Healthcare
+- Python, R, SQL
+- Scientific Writing & Communication
+
+---
+
+## 📫 Connect with Me
+
+Let's collaborate on making healthcare smarter and more accessible.  
+Reach out via [LinkedIn](https://www.linkedin.com/in/luqman-bin-fahad-a3220a366/) or explore my projects here on GitHub!
