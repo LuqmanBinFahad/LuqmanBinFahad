@@ -64,7 +64,7 @@ A selection of my research, analytics, and AI-driven healthcare projects:
   *Repository for clinical patient case studies and related analytics.*
 
 - [DrugForecast](https://github.com/luqman262002/DrugForecast)  
-  *[Hosted on Streamlit](https://drugforecast-4de3s66pqw8xryjtezzuxn.streamlit.app/)*
+  *This application demonstrates how to integrate clinical, financial, and regulatory data to predict drug trial success and identify investment opportunities in the pharmaceutical sector. [Hosted on Streamlit](https://drugforecast-4de3s66pqw8xryjtezzuxn.streamlit.app/)*
 ---
 
 ## 🛠️ Skills
