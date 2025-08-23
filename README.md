@@ -63,6 +63,8 @@ A selection of my research, analytics, and AI-driven healthcare projects:
 - [Patient Case Study](https://github.com/luqman262002/patient-case-study)  
   *Repository for clinical patient case studies and related analytics.*
 
+- [DrugForecast](https://github.com/luqman262002/DrugForecast)  
+  *[Hosted on Streamlit](https://drugforecast-4de3s66pqw8xryjtezzuxn.streamlit.app/)*
 ---
 
 ## 🛠️ Skills
