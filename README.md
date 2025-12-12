@@ -3,6 +3,8 @@
 **PharmD Intern | Clinical Pharmacist | Researcher/Scientist**  
 **AI Enthusiast | Data Analytics | Clinical Research Analytics**
 
+[moreaboutme](https://luqmanbinfahad.github.io/moreaboutme/)
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/luqman-bin-fahad-a3220a366/)
 
 ---
