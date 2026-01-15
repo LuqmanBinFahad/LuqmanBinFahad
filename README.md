@@ -13,8 +13,7 @@
 
 <img src="https://raw.githubusercontent.com/luqman262002/luqman262002/main/google-data-analytics-professional-certificate.2.png" alt="Google Data Analytics Professional Certificate" width="250"/>
 
-**IBM Machine Learning with Python**
-<img src="[https://github.com/LuqmanBinFahad/LuqmanBinFahad/blob/main/Coursera%20PT5I0CO8QEAW_page-0001.jpg](https://github.com/LuqmanBinFahad/LuqmanBinFahad/blob/main/machine-learning-with-python-v2.png)" alt="IBM Machine Learning with Python" width="250"/>
+<img src="https://github.com/LuqmanBinFahad/LuqmanBinFahad/blob/main/machine-learning-with-python-v2.png" width="250"/>
 
 **NIDA Clinical Trials Network – Good Clinical Practice Certificate**  
 <img src="https://raw.githubusercontent.com/luqman262002/luqman262002/main/certificate_pages-to-jpg-0001.jpg" alt="NIDA Clinical Trials Network Certificate" width="250"/>
