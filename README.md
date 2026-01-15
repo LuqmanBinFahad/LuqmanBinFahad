@@ -13,6 +13,8 @@
 
 <img src="https://raw.githubusercontent.com/luqman262002/luqman262002/main/google-data-analytics-professional-certificate.2.png" alt="Google Data Analytics Professional Certificate" width="250"/>
 
+<img src="https://www.credly.com/badges/73783824-8fc9-4ccf-943f-20c5235595f5/public_url" width="250"/>
+
 **NIDA Clinical Trials Network – Good Clinical Practice Certificate**  
 <img src="https://raw.githubusercontent.com/luqman262002/luqman262002/main/certificate_pages-to-jpg-0001.jpg" alt="NIDA Clinical Trials Network Certificate" width="250"/>
 
